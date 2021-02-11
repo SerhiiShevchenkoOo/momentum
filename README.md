@@ -1,6 +1,11 @@
-# momentum(static SPA)  
-* React native  
-* only Hooks 
-* storage
-* tailwind
+# momentum(static SPA)
+
+- React
+- useEffect
+- useState
+- useRef
+- fetch
+- storage
+- tailwind
+
 ### [exemple](https://serhiishevchenkooo.github.io/momentum/home/ "momentum")
